@@ -19,7 +19,7 @@ namespace projekt
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ahoj");
+            MessageBox.Show("AAhoj");
         }
     }
 }
