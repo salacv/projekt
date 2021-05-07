@@ -21,5 +21,10 @@ namespace projekt
         {
             MessageBox.Show("Jedeme bomby");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Na pána");
+        }
     }
 }
